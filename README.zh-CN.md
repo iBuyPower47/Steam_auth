@@ -122,4 +122,4 @@ steam_username_2----steam_password_2
 
 ## License
 
-如将该模块独立发布，建议沿用上层仓库的许可证，或在拆分时单独补充许可证说明。
+本项目基于 MIT License 发布，详情见 [LICENSE](./LICENSE) 文件。

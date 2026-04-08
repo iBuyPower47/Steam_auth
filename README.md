@@ -122,4 +122,4 @@ Stored session data includes:
 
 ## License
 
-Use the same license as the parent repository unless you split this package into a standalone project.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
