@@ -15,7 +15,7 @@ authors = [
 keywords = ["steam", "steam-auth", "automation", "bot", "session", "trading"]
 dependencies = [
   "requests>=2.33,<3",
-  "steampy @ git+https://github.com/iBuyPower47/steampy.git@445689779af23cc8393e0caef3f42c81e4101732",
+  "steampy @ git+https://github.com/iBuyPower47/steampy.git",
 ]
 classifiers = [
   "Development Status :: 3 - Alpha",
